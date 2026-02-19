@@ -20,6 +20,13 @@ Understanding the shifting global and Indian legal standards.
 | **IT Rules 2026** | Transparency in synthetic media distribution. | 3-hour takedown window for non-consensual deepfakes. |
 | **AI Watermark Act**| Provenance tracking for all AI content. | Embedding permanent C2PA or SynthID metadata. |
 
+🚨 Warning: The Cost of Non-Compliance
+Under the No FAKES Act (2026), unauthorized commercial use of a digital likeness is no longer just a platform violation—it is a significant legal liability. In India, the IT Rules 2026 mandate a strict 3-hour window for removing non-consensual synthetic media upon notice. Failure to comply can result in immediate account bans and criminal prosecution for digital identity theft.
+
+💡 Note: Provenance is the New SEO
+In 2026, major search engines and social platforms prioritize content with intact SynthID or C2PA metadata. Stripping these watermarks to hide AI origin will lead to a 90% reduction in organic reach and potential blacklisting.
+
+
 ## 🛠️ Protection Strategy: The "Digital Fortress"
 To mitigate risk, creators and enterprises should implement these technical safeguards:
 
